@@ -80,7 +80,7 @@ Case sensitive: yes
 uncomment Color
 
 ##### Pacman eating power pills 
-uncomment ILoveCandy
+Add the line ILoveCandy
 
 
 ## next is [pacman troubleshouting](https://wiki.manjaro.org/index.php?title=Pacman_troubleshooting)

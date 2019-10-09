@@ -5,6 +5,7 @@ pamac
 ```
 This should give you a list of pamac available actions
 The following are examples to use the pamac 
+
 ```
 pamac update
 ```
